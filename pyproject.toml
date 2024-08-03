@@ -1,7 +1,7 @@
 [project]
 name = "text-node-with-comments"
-description = ""
-version = "1.0.0"
+description = "multiline text node that strips c-style comments (i.e.'//' and '/* ... */') before passing output string downstream "
+version = "1.0.1"
 license = { file = "LICENSE.txt" }
 dependencies  = []
 
