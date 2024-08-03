@@ -17,10 +17,10 @@ class CDXOO_TextNodeWithComments:
         return (remove_comments(string),)
 
 NODE_CLASS_MAPPINGS = {
-    "@cdxoo/text-node-with-comments": CDXOO_TextNodeWithComments
+    "text-node-with-comments": CDXOO_TextNodeWithComments
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "@cdxoo/text-node-with-comments": "Text Node With Comments (@cdxoo)"
+    "text-node-with-comments": "Text Node With Comments (@cdxoo)"
 }
 

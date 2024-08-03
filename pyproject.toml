@@ -1,0 +1,13 @@
+[project]
+name = "text-node-with-comments"
+description = ""
+version = "1.0.0"
+license = { file = "LICENSE.txt" }
+dependencies  = []
+
+[project.urls]
+Repository = "https://github.com/cdxOo/comfyui-text-node-with-comments"
+
+[tool.comfy]
+PublisherId = "cdxoo"
+DisplayName = "Text Node With Comments (@cdxoo)" 
